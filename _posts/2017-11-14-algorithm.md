@@ -3,7 +3,7 @@ layout: post
 title: High Quality Text를 위한 알고리즘
 date: 2017-11-14
 description: 넘쳐나는 원고들 속에서 주옥 같은 작품들을 인간 편집자가 족집게처럼 거르기란 여간 쉬운 일이 아닐 것이다. 하지만 인공지능이 미리 선별해 놓은 소수의 후보 원고들 중에서만 인간 편집자가 선택하게 된다면? 이 같은 방식은 인공지능과 인간지능의 불완전성을 상호 보완하는 대안 가운데 하나가 될 것이라 믿고 있다.
-img: "https://i.imgur.com/4NzG2kE.png" # Add image post (optional)
+img: "https://i.imgur.com/iH49HRC.jpg" # Add image post (optional)
 tags: [Quality, Algorithm]
 ---
 
@@ -20,7 +20,7 @@ tags: [Quality, Algorithm]
 
 
 
-
+<br>
 
 ## High Quality Text를 위한 알고리즘을 고민하다
 
@@ -33,6 +33,8 @@ tags: [Quality, Algorithm]
 조앤 롤링의 해리포터는 처음에는 13개 출판사, 윌리엄 골딩의 파리대왕은 20개 출판사, 마가릿 미첼의 바람과 함께 사라지다는 무려 38개 출판사가 출판을 거절한 사례는 주지의 사실이다. 넘쳐나는 원고들 속에서 주옥 같은 작품들을 인간 편집자가 족집게처럼 거르기란 여간 쉬운 일이 아닐 것이다. 하지만 인공지능이 미리 선별해 놓은 소수의 후보 원고들 중에서만 인간 편집자가 선택하게 된다면? 이 같은 방식은 인공지능과 인간지능의 불완전성을 상호 보완하는 대안 가운데 하나가 될 것이라 믿고 있다.
 
 
+
+<br>
 
 ## Deep Curation
 

@@ -1445,7 +1445,7 @@ a.newer-posts:hover {
             align-items: stretch;
   }
   .content-box ul{
-    color: #ffffff;
+    color: #000000;
   }
   .contact-title, .copyright {
     display: none;

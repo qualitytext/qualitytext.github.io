@@ -775,7 +775,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   color: #424242;
-  background-color: #1a1a1a;
+  background-color: #ffffff;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1022,7 +1022,7 @@ table tfoot td {
 }
 
 .content-box ul{
-  color: #ffffff;
+  color: #000000;
 }
 
 .contact .contact-title {

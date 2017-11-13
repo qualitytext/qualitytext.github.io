@@ -872,7 +872,11 @@ table tfoot td {
   position: relative;
 }
 
-.post, .article-page {
+.post {
+  background-color: #ececec;
+}
+
+.article-page {
   background-color: #fff;
 }
 

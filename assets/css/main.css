@@ -876,6 +876,19 @@ table tfoot td {
   background-color: #fff;
 }
 
+.article-page .ul {
+  color: #000000;
+}
+
+.article-page .img {
+  color: #000000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+
 ::-moz-selection {
   background: rgba(38, 57, 89, 0.8);
   color: #ffffff;
@@ -1220,7 +1233,7 @@ a.newer-posts:hover {
   padding: 0;
   margin: 0;
   max-height: 500px;
-  background-color: #fafafa;
+  background-color: #ffffff;
   overflow: hidden;
 }
 

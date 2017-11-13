@@ -44,4 +44,4 @@ tags: [Quality, Algorithm]
 - 목표 : 질 좋은 컨텐츠를 선별할 때 에디터의 판단에 도움이 될 수 있도록 High Quality Text의 양적 조건을 자동 검증 
 - 방식 : Convolutional Neural Network(CNN)를 활용한 문서 이진분류(binary classification) 모델(그림)을 기본으로 하되 통계 혹은 SVM 기반의 모델 등도 다양하게 실험, 검증
 
-<a href="https://imgur.com/4NzG2kE"><img src="https://i.imgur.com/4NzG2kE.png" width="700px" title="source: imgur.com" /></a>
+<a href="https://imgur.com/4NzG2kE"><img src="https://i.imgur.com/4NzG2kE.png" width="70%" title="source: imgur.com" /></a>
